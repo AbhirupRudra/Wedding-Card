@@ -1,6 +1,3 @@
-Here is the complete content for your `README.md` file. You can copy the code block below and save it as `README.md` in your project folder.
-
-````markdown
 # 💍 Royal Bengali Wedding Invitation
 
 A premium, interactive, and fully responsive digital wedding invitation website designed with a traditional **Bengali Royal Theme** (Maroon & Gold). 
@@ -11,28 +8,28 @@ This project features a unique **"Royal Seal" unlocking mechanism** with haptic 
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Language](https://img.shields.io/badge/Language-Bengali-green)
 
-# ✨ Features
+## ✨ Features
 
-**🔏 Royal Seal Interaction:** A unique "Press & Hold" wax seal interaction to unlock the invitation.
-**📳 Haptic Feedback:** Vibrations on touch and unlock (supported on Android/Mobile).
-**🎵 Background Music:** Audio player with toggle controls (Auto-plays after interaction).
-**🌸 Animations:** Falling golden petals, heartbeat effects, and smooth scroll reveal animations.
-**📱 Fully Responsive:** Optimized for both mobile phones and desktop screens.
-**🇧🇩 Bengali Localization:** Complete text in Bengali using beautiful fonts (*Galada* & *Hind Siliguri*).
-**⏳ Countdown Timer:** Live countdown to the wedding date.
-**📍 Event Details:** Sections for Wedding and Reception with location details.
-**👨‍👩‍👧‍👦 Family Section:** Dedicated section for Bride and Groom's family details.
-**🎨 Custom Design:** Central portrait frame on start screen with blur/focus effects.
+* **🔏 Royal Seal Interaction:** A unique "Press & Hold" wax seal interaction to unlock the invitation.
+* **📳 Haptic Feedback:** Vibrations on touch and unlock (supported on Android/Mobile).
+* **🎵 Background Music:** Audio player with toggle controls (Auto-plays after interaction).
+* **🌸 Animations:** Falling golden petals, heartbeat effects, and smooth scroll reveal animations.
+* **📱 Fully Responsive:** Optimized for both mobile phones and desktop screens.
+* **🇧🇩 Bengali Localization:** Complete text in Bengali using beautiful fonts (*Galada* & *Hind Siliguri*).
+* **⏳ Countdown Timer:** Live countdown to the wedding date.
+* **📍 Event Details:** Sections for Wedding and Reception with location details.
+* **👨‍👩‍👧‍👦 Family Section:** Dedicated section for Bride and Groom's family details.
+* **🎨 Custom Design:** Central portrait frame on start screen with blur/focus effects.
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-**HTML5:** Semantic structure.
-**CSS3:** Flexbox, Grid, CSS Variables, Keyframe Animations, Glassmorphism.
-**JavaScript (ES6+):** Logic for interactions, timer, music, Pointer Events API, and Intersection Observer API.
-**Fonts:** * *Galada* (Bengali Headings)
+* **HTML5:** Semantic structure.
+* **CSS3:** Flexbox, Grid, CSS Variables, Keyframe Animations, Glassmorphism.
+* **JavaScript (ES6+):** Logic for interactions, timer, music, Pointer Events API, and Intersection Observer API.
+* **Fonts:** * *Galada* (Bengali Headings)
     * *Hind Siliguri* (Bengali Body)
     * *Rozha One* (English Accents)
-**Icons:** FontAwesome v6.4.0.
+* **Icons:** FontAwesome v6.4.0.
 
 ## 📂 File Structure
 
@@ -43,7 +40,6 @@ wedding-card/
 ├── style.css       # Visual styling, animations, and responsive design
 ├── script.js       # Logic for seal interaction, vibration, timer, and music
 └── README.md       # Project documentation
-````
 
 ## 🚀 How to Run
 
